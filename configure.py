@@ -52,7 +52,7 @@ lstm_in_gcn = "none" # before, after, none
 
 aggregator_dim_first = 100
 aggregator_dim_second = 100
-gcn_window_size_first = 2
+gcn_window_size_first = 1
 gcn_window_size_second = 2
 gcn_layer_size_first = 1
 gcn_layer_size_second = 1
