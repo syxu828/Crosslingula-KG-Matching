@@ -24,8 +24,8 @@ To train your model, you need:
     
 (2) Train & Test the model: (take zh_en as an example)
   
-    python3 run_model.py train zh_en zh_en_model -epochs=10
-    python3 run_model.py test zh_en zh_en_model
+    python3 run_model.py train zh_en zh_en_model -epochs=10 -use_pretrained_embedding
+    python3 run_model.py test zh_en zh_en_model -use_pretrained_embedding
     
 # How To Cite The Codes
 Please cite our work if you like or are using our codes for your projects!
