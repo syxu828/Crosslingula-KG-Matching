@@ -35,7 +35,7 @@ Kun Xu, Mo Yu, Yansong Feng, Yan Song, Zhiguo Wang and Dong Yu,
  
 @article{xu2019graphmatching, 
 title={Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network}, 
-author={Xu, Kun and Yu, Mo and Feng, Yansong and Song, Yan and Wang, Zhiguo and Yu, Dong}, 
+author={Xu, Kun and Wang, Liwei and Yu, Mo and Feng, Yansong and Song, Yan and Wang, Zhiguo and Yu, Dong}, 
 year={2019} 
 }  
 
